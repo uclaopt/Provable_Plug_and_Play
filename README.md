@@ -23,6 +23,6 @@ $ python3 pnp_admm_csmri.py
 
 ## Run with costmized settings
 ```
-python3 pnp_admm_csmri.py --model_type DnCNN --sigma 15 --alpha 2.0 --maxitr 100 --verbose 1
+$ python3 pnp_admm_csmri.py --model_type DnCNN --sigma 15 --alpha 2.0 --maxitr 100 --verbose 1
 ```
 All the arguments are explained in the file "utils/config.py".
