@@ -44,5 +44,6 @@ If you find our code helpful in your resarch or work, please cite our paper.
   month = 	 {09--15 Jun},
   publisher = 	 {PMLR},
   pdf = 	 {http://proceedings.mlr.press/v97/ryu19a/ryu19a.pdf},
-  url = 	 {http://proceedings.mlr.press/v97/ryu19a.html},
+  url = 	 {http://proceedings.mlr.press/v97/ryu19a.html}
+}
 ```
