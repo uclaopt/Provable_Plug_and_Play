@@ -42,7 +42,7 @@ All the arguments are explained in the file "train_full_realsn.py".
 Acknowledgment
 =========================
 We use the same dataset and loading method as the following repository:
-[r2h]: git@github.com:SaoYan/DnCNN-PyTorch.git
+https://github.com/SaoYan/DnCNN-PyTorch
 
 
 Citation
