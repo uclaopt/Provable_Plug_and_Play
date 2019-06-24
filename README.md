@@ -12,6 +12,7 @@ Scripts
 4. pnp_fbs_poisson_denoise.py (Poisson Denoising solved with Plug-and-Play FBS)
 5. pnp_admm_photon_imaging.py (Single Photon Imaging solved with Plug-and-Play ADMM)
 6. pnp-fbs_photon_imaging.py (to appear soon)
+7. training/train_full_realsn.py (Training the denoisers)
 
 How to run the scripts
 ========================
@@ -26,6 +27,9 @@ $ python3 pnp_admm_csmri.py
 $ python3 pnp_admm_csmri.py --model_type DnCNN --sigma 15 --alpha 2.0 --maxitr 100 --verbose 1
 ```
 All the arguments are explained in the file "utils/config.py".
+
+## Training
+We provide some pretraining models in the folder "pretrained_models". They can be directly used in the Plug-and-PLay framework. To train new models, please refer the "README" file in the "training" folder.
 
 Citation
 =========================
