@@ -29,7 +29,7 @@ $ python3 pnp_admm_csmri.py --model_type DnCNN --sigma 15 --alpha 2.0 --maxitr 1
 All the arguments are explained in the file "utils/config.py".
 
 ## Training
-We provide some pretraining models in the folder "pretrained_models". They can be directly used in the Plug-and-PLay framework. To train new models, please refer the "README" file in the "training" folder.
+We provide some pretraining models in the folder "Pretrained_models". They can be directly used in the Plug-and-PLay framework. To train new models, please refer the "README" file in the "training" folder.
 
 Citation
 =========================
