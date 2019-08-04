@@ -1,3 +1,4 @@
+# header
 import torch.nn as nn
 from model.conv_sn_chen import conv_spectral_norm
 from model.bn_sn_chen import bn_spectral_norm
